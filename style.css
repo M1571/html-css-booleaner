@@ -1,0 +1,103 @@
+body {
+    margin: auto;
+}
+
+.contenuto {
+    padding: 6px;
+}
+
+h1 {
+    font-size: 40px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+h3 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+h4 {
+    margin-top: 0px;
+    font-size: 12px;
+}
+
+.evidenz-giallo {
+    background-color: yellow;
+}
+
+.scritta-blu {
+    color: rgb(0, 183, 255);
+}
+
+.grey-sent {
+    color: darkgrey;
+}
+
+header {
+    background-image: url(img/pattern.png);
+    background-repeat: repeat-x;
+    background-size: 400px;
+    background-color: #6eadf5;
+    height: 100px;
+    margin-bottom: 10px;
+}
+
+.logo { 
+    margin-top: 45px;
+    margin-left: 5px;
+    height: 50px;
+}
+
+.tim-foto {
+    margin-bottom: 10px;
+}
+
+.lista {
+    margin-bottom: 20px;
+}
+
+.th-lin {
+    width: 50px;
+}
+
+.tabella {
+    margin-top: 15px;
+    text-align: left;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+thead {
+    color: white;
+}
+
+.td-lin {
+    background-color: #5bb5ff;
+}
+
+footer {
+    padding: 10px;
+}
+
+.temp {
+    color: white;
+}
+
+.temp-1 {
+    background-image: url(img/monitor.jpg);
+    width: 200px;
+    height: 150px;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+.temp-2 {
+    background-image: url(img/graph.jpg);
+    width: 200px;
+    height: 150px;
+    padding: 15px;
+    margin-bottom: 10px;
+}
